@@ -209,10 +209,6 @@ The API returns appropriate HTTP status codes:
 
 This project is for educational purposes (Lab 2 assignment).
 
-## Author
-
-DSI32 - Mobile Development with Flutter
-
 ---
 
 **Last Updated**: October 15, 2025
